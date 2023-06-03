@@ -1,0 +1,6 @@
+1.link style.css to index.html
+2.add four div
+3.create root in index.css
+4.create color for 4 items using var()
+5.Add designSystem.css - Add fonts to it
+6.link designSystem.css to index.html

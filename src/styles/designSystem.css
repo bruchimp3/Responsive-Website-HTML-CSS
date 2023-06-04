@@ -99,3 +99,10 @@ color: var(--color-green-100);
     padding: 0;
     box-sizing: border-box ;
 }
+
+/**
+*!  Style rules for hero.
+**/
+.hero{
+    background-color:var(--color-green-100);
+}
